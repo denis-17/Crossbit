@@ -1,0 +1,29 @@
+body{
+    background: url(Fon.jpg);
+}
+div{
+    border: 2px solid #f7ff84;
+    background-color: #0000007e;
+    border-radius: 1%;
+}
+div > img{
+    width: 300px;
+    border: 5px solid #0000ff;
+    border-radius: 5%;
+}
+div > a {
+    color:#f7ff84;
+    
+}
+div > p{
+    font-family:Calibri;
+    color:honeydew;
+}
+div > h3{
+    font-family: Calibri;
+    color: honeydew;
+}
+div > h1{
+    font-family: Calibri;
+    color:#f7ff84;
+}
